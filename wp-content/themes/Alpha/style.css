@@ -48,8 +48,6 @@ h2.post-title{
 .post-pagination{
     margin-bottom: 50px;
 }
-.row {
-    margin-right: -15px;
-    text-align: center;
-    margin-left: -15px;
+.container{
+    float: left;
 }
